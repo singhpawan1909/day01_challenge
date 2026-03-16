@@ -1,0 +1,7 @@
+Task: Create a file notes.txt locally and push it to GitHub.
+ 
+Then make a change to the same file directly on GitHub (use GitHub's edit button), 
+pull it back to your local machine and verify the change reflects locally.
+
+Done when: Your local notes.txt matches what you edited on GitHub and git log --oneline shows 
+commits from both sides.
